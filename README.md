@@ -36,7 +36,7 @@ Knowdledge Skills:
 |--- |--- |--- |
 |Fundamentals of Python, Refer to my Python-Course repository. |Url Dispatching, Pages change concept, Templates rendering, Templates Inheritance, Modals for Database(sqlite3) Handling. |Starter Template, Navbar, Craousel, Jumbotron, Forms, Adding Buttons, Cards, Collapse, Dismissible Alerts and Ratios. |
 
->Keep smiling and work harder !
+>_Keep smiling and work harder !_
 
 ---
 
