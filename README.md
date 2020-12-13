@@ -34,7 +34,7 @@ Knowdledge Skills:
 
 |Python |Django |Bootstrap |
 |--- |--- |--- |
-|Fundamentals of Python, Refer to my Python-Course repository. |Url Dispatching, Pages change concept, Templates rendering, Templates Inheritance, Modals for Database(sqlite3) Handling. |Starter Template, Navbar, Craousel, Jumbotron, Forms, Adding Buttons, Cards, Collapse, Dismissible Alerts and Ratios. |
+|Fundamentals of Python, Refer to my Python-Course repository. |Url Dispatching, Pages change concept, Templates rendering, Templates Inheritance, Modals for Database(sqlite3) Handling. |Starter Template, Navbar, Carousel, Jumbotron, Forms, Adding Buttons, Cards, Collapse, Dismissible Alerts and Ratios. |
 
 >_Keep smiling and work harder !_
 
