@@ -2,6 +2,19 @@
 
 ![It's me](https://learncodeonline.in/mascot.png "Nitin Sharma")
 
+```python
+
+print("Hello Visitor, Let me code one python dictionary to describe myself :)")
+
+dict = {
+"Name" : "Nitin Sharma",
+"Email" : ["s19nitin@gmail.com", "s1911nitin@gmail.com"],
+"City" : "New Delhi",
+"Platforms" : ["Python", "Django", "Bootstrap"]
+}
+
+```
+
 - 🌱 I’m currently learning **Django**.
 - 🤔 I’m looking for help with **Bootstrap, Django** in detail.
 - 💬 Ask me about **Python, Django, Bootstrap**.
