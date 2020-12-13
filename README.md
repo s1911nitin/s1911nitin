@@ -15,10 +15,10 @@ dict = {
 
 ```
 
-- 🌱 I’m currently learning **Django**.
-- 🤔 I’m looking for help with **Bootstrap, Django** in detail.
-- 💬 Ask me about **Python, Django, Bootstrap**.
-- ⚡ Fun fact: **Cricket, Listening to music**.
+- 🌱  I’m currently learning **Django**.
+- 🤔   I’m looking for help with **Bootstrap, Django** in detail.
+- 💬  Ask me about **Python, Django, Bootstrap**.
+- ⚡   Fun fact: **Cricket, Listening to music**.
 
 My website links:
 
