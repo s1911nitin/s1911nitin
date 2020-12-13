@@ -36,7 +36,17 @@ Knowdledge Skills:
 |--- |--- |--- |
 |Fundamentals of Python, Refer to my Python-Course repository. |Url Dispatching, Pages change concept, Templates rendering, Templates Inheritance, Modals for Database(sqlite3) Handling. |Starter Template, Navbar, Craousel, Jumbotron, Forms, Adding Buttons, Cards, Collapse, Dismissible Alerts and Ratios. |
 
+>Keep smiling and work harder !
 
+---
+
+Mantras :
+
+1. Always try to brush up yourself with new learning.
+2. Be a person who delivers his knowledge to the others to improve themselves as that would be good for them as well as your revision.
+3. If problem occurs so be calm and focus to resolve it instead of blaming.
+4. We programmer always sit on the chair so to keep ourself healthy we must indulge with some physical activites just like my healthy programmer
+exercise which is a part of python-course repository so if we are in office we can create it and run into the cmd while working.
 
 
 
