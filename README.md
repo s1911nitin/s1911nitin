@@ -29,3 +29,24 @@ This is the website which I made with the help of Django along with Bootstrap.
 [📫 Visit My Second Website](http://thenitinjournal.pythonanywhere.com/ "NewspaperWebsite")
 
 This is another website I made via Django and Bootstrap and here I am getting live news updates from newsapi.org.
+
+Knowdledge Skills:
+
+|Python |Django |Bootstrap |
+|--- |--- |--- |
+|Fundamentals of Python, Refer to my Python-Course repository. |Url Dispatching, Pages change concept, Templates rendering, Templates Inheritance, Modals for Database(sqlite3) Handling. |Starter Template, Navbar, Craousel, Jumbotron, Forms, Adding Buttons, Cards, Collapse, Dismissible Alerts and Ratios. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
