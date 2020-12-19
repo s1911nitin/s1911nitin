@@ -1,3 +1,5 @@
+![](python.jpeg)
+
 ### Hello, I am Nitin Sharma 👋
 
 ![It's me](https://learncodeonline.in/mascot.png "Nitin Sharma")
