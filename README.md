@@ -1,4 +1,4 @@
-![](python.jpeg)
+
 
 ### Hello, I am Nitin Sharma 👋
 
