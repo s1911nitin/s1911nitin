@@ -9,8 +9,8 @@ print("Hello Visitor, Let me code one python dictionary to describe myself :)")
 dict = {
 "Name" : "Nitin Sharma",
 "Email" : ["s1911nitin@gmail.com", "s19nitin@gmail.com"],
-"City" : "New Delhi",
 "Country" : "India",
+"Softwares" : ["Windows", "Pycharm"],
 "Platforms" : ["Python", "Django", "Bootstrap"]
 }
 
