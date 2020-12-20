@@ -10,8 +10,7 @@ dict = {
 "Name" : "Nitin Sharma",
 "Email" : ["s1911nitin@gmail.com", "s19nitin@gmail.com"],
 "Country" : "India",
-"Software" : ["Windows", "Pycharm"],
-"Platform" : ["Python", "Django", "Bootstrap"]
+"Role" : ["Developer", "Designer"]
 }
 
 ```
