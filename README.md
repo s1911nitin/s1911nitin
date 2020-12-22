@@ -17,7 +17,7 @@ dict = {
 
 - 💬  Ask me about **Python, Django, Bootstrap**.
 - 🌱  I’m currently learning **Bootstrap**.
-- 🤔   I’m looking for help with **Bootstrap, Django** in detail.
+- 🤔   I’m looking for help with **Bootstrap** in detail.
 - ⚡   Fun fact: **Cricket, Reading & Music**.
 
 My website links:
