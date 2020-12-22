@@ -15,20 +15,24 @@ dict = {
 
 ```
 
-- 🌱  I’m currently learning **Django**.
-- 🤔   I’m looking for help with **Bootstrap, Django** in detail.
 - 💬  Ask me about **Python, Django, Bootstrap**.
-- ⚡   Fun fact: **Cricket, Listening to music**.
+- 🌱  I’m currently learning **Bootstrap**.
+- 🤔   I’m looking for help with **Bootstrap, Django** in detail.
+- ⚡   Fun fact: **Cricket, Reading & Music**.
 
 My website links:
 
-[📫 Visit My First Website](http://codewithnitin.pythonanywhere.com/ "IceCreamShopWebsite") 
+[📫 Visit My Online Portfolio](http://codewithnitinportfolio.pythonanywhere.com/ "PortfolioWebsite")
 
-This is the website which I made with the help of Django along with Bootstrap.
+I built it with the help of Django, Bootstrap to show you my Online Portfolio.
 
-[📫 Visit My Second Website](http://thenitinjournal.pythonanywhere.com/ "NewspaperWebsite")
+[📫 Visit My Ice Cream Shop](http://codewithnitin.pythonanywhere.com/ "IceCreamShopWebsite") 
 
-This is another website I made via Django and Bootstrap and here I am getting live news updates from newsapi.org.
+It is the website which I made with the help of Django along with Bootstrap to create one Ice Cream Shop.
+
+[📫 Visit My Live Newspaper](http://thenitinjournal.pythonanywhere.com/ "NewspaperWebsite")
+
+This is another website I made via Django and Bootstrap, here I am getting live news updates from newsapi.org.
 
 Knowdledge Skills:
 
