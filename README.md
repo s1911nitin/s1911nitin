@@ -22,11 +22,9 @@ dict = {
 
 Knowdledge Skills:
 
-|Python ||Django |
-|--- ||--- |
-|Fundamentals of Python, Refer to my Python-Course repository.|
-
-|Django- MVT Architecture,Template Inheritance, DTL, Cookie, Session Framework, Cache Framework, ORM, Queryset API, Form API, ModelForm, Dynamic URL, Messages Framework, Authentication and Authorization, Signals, Middlewares, Model Inheritance, Manager, Model Relationships, Base Class Based View, Generic class based view, Pagination.|
+|Python |Django |
+|--- |--- |
+|Fundamentals of Python, Refer to my Python-Course repository.|Django- MVT Architecture,Template Inheritance, DTL, Cookie, Session Framework, Cache Framework, ORM, Queryset API, Form API, ModelForm, Dynamic URL, Messages Framework, Authentication and Authorization, Signals, Middlewares, Model Inheritance, Manager, Model Relationships, Base Class Based View, Generic class based view, Pagination.|
 >_Keep smiling and work harder !_
 
 ---
