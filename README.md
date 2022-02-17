@@ -22,12 +22,13 @@ dict = {
 
 Knowdledge Skills:
 
-|Python |Django |Bootstrap |
-|--- |--- |--- |
-|Fundamentals of Python, Refer to my Python-Course repository.| Django- ModelViewTemplate Architecture, Hierarchy of Django Project & Apps, Templates inside Project & Apps
-StaticFiles inside Project & Apps, Template Inheritance, Django Template Language, Cookie, Session Framework, Cache Framework, Object Relation Mapper(ORM), Queryset API, Form API, ModelForm, Dynamic URL, Messages Framework, Authentication and Authorization, Signals, Middlewares, Model Inheritance, Manager, Model R|elationships, Base Class Based View, 
-Generic class based view, Pagination.| Basic of Bootstrap to design frontend.|
+|Python |
+|--- |
+|Fundamentals of Python, Refer to my Python-Course repository.|
 
+|Django |
+|--- |
+| Django- ModelViewTemplate Architecture, Hierarchy of Django Project & Apps, Templates inside Project & Apps, StaticFiles inside Project & Apps, Template Inheritance, Django Template Language, Cookie, Session Framework, Cache Framework, Object Relation Mapper(ORM), Queryset API, Form API, ModelForm, Dynamic URL, Messages Framework, Authentication and Authorization, Signals, Middlewares, Model Inheritance, Manager, Model R|elationships, Base Class Based View, Generic class based view, Pagination.|
 >_Keep smiling and work harder !_
 
 ---
