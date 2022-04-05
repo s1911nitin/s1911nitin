@@ -16,7 +16,6 @@ dict = {
 ```
 
 - 💬  Ask me about **Python, Django**.
-- 🌱  I’m currently learning **Django Rest Framework**.
 - ⚡   Fun fact: **Cricket, Reading & Music**.
 
 
