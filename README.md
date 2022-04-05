@@ -19,7 +19,7 @@ dict = {
 - ⚡   Fun fact: **Cricket, Reading & Music**.
 
 
-Knowdledge Skills:
+Skills:
 
 |Python |Django |Bootstrap|
 |--- |--- |--- |
