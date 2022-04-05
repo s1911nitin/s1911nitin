@@ -1,4 +1,4 @@
-Github Profile Readme.md designing which we can code directly into the Github readme.md
+Github Profile Readme.md where we can describe ourselves.
 
 
 
